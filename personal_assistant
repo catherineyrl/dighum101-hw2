@@ -3,15 +3,21 @@ echo "Hi, I'm Catherine Yang's personal assistant file!"
 printf "\n"
 
 echo "1.Hiii a second greeting! I'm Catherine's personal assistant! Welcome!"
-print "\n"
+
+printf "\n"
+
 echo "2.Recording today's date! My huge step in Bash!"
+
 printf "\n"
 
 date
 
-printf \n"
-echo "3. It says I should add a cal function so I did"
 printf "\n"
+
+echo "3. It says I should add a cal function so I did"
+
+printf "\n"
+
 cal
 
 printf "\n"
